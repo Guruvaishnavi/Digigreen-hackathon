@@ -42,10 +42,10 @@
 
 # Sustainablility impacts
 <ul>
-<li> Zero Fossil Fuel Dependency<li>
-<li>Reduces Manual Labor & Operational Costs<li>
-<li>Enhances Water Quality Management in Remote Areas<li>
-<li>Supports UN SDGs for Clean Water & Affordable Clean Energy<li>
+<li> Zero Fossil Fuel Dependency</li>
+<li>Reduces Manual Labor & Operational Costs</li>
+<li>Enhances Water Quality Management in Remote Areas</li>
+<li>Supports UN SDGs for Clean Water & Affordable Clean Energy</li>
 </ul>
 
 
