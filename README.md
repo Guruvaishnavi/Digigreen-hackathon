@@ -1,5 +1,5 @@
 # Digigreen-hackathon
-Digigreen hackathon
+
 # Description
 <ul>
   <li>This project is an IoT-based autonomous water cleaning and purification system powered by renewable energy sources like solar and hydroelectric generators. The system integrates smart sensors, microcontrollers, GPS tracking, automated chemical dosing, and a mobile application for real-time monitoring and control.
@@ -29,5 +29,19 @@ Digigreen hackathon
 <li>Notifications & Alerts</li>
 
 
+</ul>
+
+# Mobile application
+<ul>
+<li>
+Start & Stop Machine Remotely<li>
+<li>
+Live Location on Map (Cleaned/Uncleaned Areas)<li>
+<li>Battery & Status Monitoring<li>
+
+<li>Remote Control of Chemical Treatment<li>
+
+<li>Notifications & Reports
+  <li>
 </ul>
 
