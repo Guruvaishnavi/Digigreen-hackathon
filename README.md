@@ -33,15 +33,10 @@
 
 # Mobile application
 <ul>
-<li>
-Start & Stop Machine Remotely<li>
-<li>
-Live Location on Map (Cleaned/Uncleaned Areas)<li>
+<li>Start & Stop Machine Remotely<li>
+<li>Live Location on Map (Cleaned/Uncleaned Areas)<li>
 <li>Battery & Status Monitoring<li>
-
 <li>Remote Control of Chemical Treatment<li>
-
-<li>Notifications & Reports
-  <li>
+<li>Notifications & Reports<li>
 </ul>
 
