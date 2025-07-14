@@ -20,7 +20,7 @@ Digigreen hackathon
 
 # Data and report
 <ul>
-<li></li>Live Dashboard (battery, machine status)</li>
+<li>Live Dashboard (battery, machine status)</li>
 
 <li>Chemical Treatment Reports</li>
 
