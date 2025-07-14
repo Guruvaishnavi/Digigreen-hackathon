@@ -19,7 +19,7 @@
 </ul>
 
 # Block diagram
-<img src="" width="500" height="300">
+<img src="blockdiagram lake cleaning.jpeg" width="500" height="300">
 
 # Data and report
 <ul>
