@@ -6,12 +6,12 @@ Digigreen hackathon
 </li>
 </ul>
 <ul>
-Component	Technology
+<li>Component	Technology
 Microcontroller-ESP32
 Sensors	-pH, TDS, ORP
 Motors	- Servo / Stepper Drivers
 Communication	- GPS Module
 Power-	Solar, Hydro, Battery, Controller
-App -	Flutter 
+App -	Flutter </li>
 
 </ul>
