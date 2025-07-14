@@ -18,6 +18,9 @@
 
 </ul>
 
+# Block diagram
+<img src="" width="500" height="300">
+
 # Data and report
 <ul>
 <li>Live Dashboard (battery, machine status)</li>
