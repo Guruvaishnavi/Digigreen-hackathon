@@ -48,5 +48,24 @@
 <li>Supports UN SDGs for Clean Water & Affordable Clean Energy</li>
 </ul>
 
+# Future Scope
+<ul>
+<li>AI-based water quality prediction and optimization</li>
+<li>Integration with smart city infrastructure</li>
+<li>Cloud-based analytics with historical trends</li>
+<li>Voice-controlled assistant integration</li>
+<li>Integration with blockchain for transparent data logging</li>
+</ul>
+
+# Benefits
+<ul>
+<li>Self-sustained energy-efficient operation</li>
+<li>Supports green infrastructure goals</li>
+<li>Adaptable to rural, urban, or industrial use cases</li>
+<li>Real-time operational visibility</li>
+<li>Reduces chemical, power, and water wastage</li>
+<li>No need for manual supervision in hazardous areas</li>
+</ul>
+
 
 
