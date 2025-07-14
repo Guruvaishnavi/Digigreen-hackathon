@@ -17,3 +17,17 @@ Digigreen hackathon
 <li>App -	Flutter </li>
 
 </ul>
+
+# Data and report
+<ul>
+<li></li>Live Dashboard (battery, machine status)</li>
+
+<li>Chemical Treatment Reports</li>
+
+<li>Daily Performance Reports</li>
+
+<li>Notifications & Alerts</li>
+
+
+</ul>
+
